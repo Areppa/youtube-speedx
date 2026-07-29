@@ -22,8 +22,8 @@
 // @icon         https://www.google.com/s2/favicons?domain=telegram.org
 // @match        https://vkvideo.ru/*
 // @icon         https://www.google.com/s2/favicons?domain=vk.com
-// @downloadURL  https://raw.githubusercontent.com/alexplast/youtube-speedx/main/dist/youtubespeedx.userscript.js
-// @updateURL    https://raw.githubusercontent.com/alexplast/youtube-speedx/main/dist/youtubespeedx.userscript.js
+// @downloadURL  https://raw.githubusercontent.com/areppa/youtube-speedx/main/dist/youtubespeedx.userscript.js
+// @updateURL    https://raw.githubusercontent.com/areppa/youtube-speedx/main/dist/youtubespeedx.userscript.js
 // @grant        GM_addStyle
 // @run-at       document-start
 // ==/UserScript==
