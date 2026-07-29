@@ -32,14 +32,14 @@
 (() => {
   // src/config/defaultConfig.ts
   var DEFAULT_CONFIG = {
-    speed: 2.3,
+    speed: 1.3,
     resolution: "hd1080",
-    useH264: true,
-    max60FpsQuality: "unlimited",
+    useH264: false,
+    max60FpsQuality: "1080",
     // 'unlimited', '1080', '720', '480', 'disabled'
     ADJUSTMENT_STEP: 0.1,
-    RES_DOWN_KEY: "Comma",
-    RES_UP_KEY: "Period",
+    RES_DOWN_KEY: "PageDown",
+    RES_UP_KEY: "PageUp",
     SETTINGS_KEY: "KeyS",
     enableSpeedBoost: true,
     BOOST_KEY: "KeyB",
